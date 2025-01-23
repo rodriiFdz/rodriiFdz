@@ -95,8 +95,9 @@
            <a style="margin-left: 10px;" target="_blank" href="mailto:nitindahiya00000@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
       </div>
--->
+
 </p>
+
 
 
 <p>Total visitors till now 👇❤️</p>
