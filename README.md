@@ -1,108 +1,73 @@
 
+
 <!--h1 without bottom border-->
+
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Rodrigo</h1></summary>
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi👋, I'm Rodrigo</h1></summary>
   </ul>
 </div>
 
 
+<!--About Me-->
+- :school: I am a final year student of computer engineering.
+- :technologist: **Currently developing** `new platforms` **based on** `IA`
+- :nerd_face: Always believe `"80% of consequences come from 20% of causes"`
 
-<!--h2 without bottom border-->
-<!-- <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+<br>
+
+## 🛠️ My Skills
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend & Backend Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)  
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)  
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
+
+![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
 <br>
 
 
-- I’m actually .
-- :technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
-- 💬 Ask me about anything, I love to answer!
-- :thinking: I’m currently open for a new `job opportunity`.
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
-<br>
 
-
-
-
-  ## 🛠️ My Skills
--------------------
-### Programming languages:
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
-
-### Frontend Development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?logo=Chart.js)
-
-### Backend Development:
-&emsp;
-![Express](https://img.shields.io/badge/-Express-000?logo=Express)
-
-### Misc Tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
-
-### Services & Frameworks: 
-&emsp;
-![Auth0](https://img.shields.io/badge/-Auth0-000?logo=Auth0)
-![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
-
-### Databases:
-&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-
-
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-<h3 align="center" >Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/nitin-dahiya/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nitindahiya199">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:nitindahiya00000@gmail.com">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-      </div>
-
-</p>
-
-
-
-<p>Total visitors till now 👇❤️</p>
-<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
-
--------
-Credits: [nitindahiya199](https://github.com/nitindahiya199)
-Last Edited on: 01-05-2024
